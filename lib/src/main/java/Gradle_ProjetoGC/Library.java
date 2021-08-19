@@ -5,6 +5,6 @@ package Gradle_ProjetoGC;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return false;
+        return true;
     }
 }
